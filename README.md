@@ -1,0 +1,2 @@
+# Dailydali
+Test statique site
